@@ -1,7 +1,3 @@
 ## Hi, I'm Luke 👋
 
-Experimental high energy physicist developing machine learning methods for LHC data.
-
-- Working at the intersection of particle physics, ML, and scientific computing
-- Focused on Higgs analysis, jet classification, pileup mitigation, and anomaly detection
-- Using ML to improve collider measurements and search for ✨ new physics ✨
+Postdoc in HEP-EX working on machine learning. Interested in extracting information from high dimensional point cloud data structures also known as jets. Working on time series foundation model for detector operations. Cali rating taggers using optimal transport unsupervised learning techniques. Probably talking to Claud… 
